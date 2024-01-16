@@ -1,0 +1,19 @@
+.password{
+    position: relative;
+    box-shadow: 0 0 20px rgb(29, 193, 130);
+}
+
+.icon{
+    position: absolute;
+    right: 10px;
+}
+
+.inputPass{
+    box-shadow: 0 0 20px rgb(29, 193, 130);
+}
+
+.submit{
+    margin-top: 3vh;
+    width: 10vw;
+    box-shadow: 0 0 10px rgb(29, 193, 130);
+}
